@@ -16,6 +16,15 @@ import time
 # See the guides mentioned in the README.md file for how
 # to get a key
 
+# Quick start guide for Windows:
+# https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/quick-start
+
+# Python reference guide:
+# https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/documentation#eikon-data-ap-is-for-python-reference-guide
+
+# You can launch the Data Item Browser to discover fields and parameters, 
+# or copy field names and parameters from TR Eikon - MS Office formulas
+
 # Note that you must be logged in to Eikon Desktop on your 
 # computer and on NTNU VPN to be able to use this API
 
